@@ -1,0 +1,51 @@
+{
+  "quotes": [
+    {
+      "author": "Shubhkesh Yadav",
+      "text": "Learnign React Js",
+      "id": 1
+    },
+    {
+      "author": "Mohan",
+      "text": "Testing conten here",
+      "id": 2
+    },
+    {
+      "author": "Hello",
+      "text": "New Text Here",
+      "id": 3
+    },
+    {
+      "author": "New Testing Here..",
+      "text": "Hello Hello Hello",
+      "id": 4
+    },
+    {
+      "author": "Kaushal Yadav",
+      "text": "New handler",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "text": "Hello",
+      "quoteId": "1",
+      "id": 1
+    },
+    {
+      "text": "First Comment here",
+      "quoteId": "4",
+      "id": 2
+    },
+    {
+      "text": "New comment ",
+      "quoteId": "4",
+      "id": 3
+    },
+    {
+      "text": "New Comment Here",
+      "quoteId": "1",
+      "id": 4
+    }
+  ]
+}
